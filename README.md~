@@ -1,0 +1,10 @@
+# LearningGit
+
+Added a new line
+
+<<<<<<< HEAD
+Added another line using vim
+=======
+
+Added new line in branch first commit.
+>>>>>>> 761d78319245aa1b6ecb4a5ca0a1f02ce3db424c
